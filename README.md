@@ -35,6 +35,22 @@ BloomQuiz is an AI-powered assessment generation, interactive practice, and qual
 
 ---
 
+## Screenshots
+
+### Welcome & Quiz Configuration
+![BloomQuiz Landing Screen](images/landing.png)
+![BloomQuiz Configuration Card](images/generator.png)
+
+### Difficulty & Bloom's Taxonomy Controls
+![Difficulty Selection](images/difficulty.png)
+![Bloom's Level Selection](images/bloom's%20level.png)
+
+### Interactive Practice & AI Grading
+![Generated Questions & Practice](images/questions%20gneration%20.png)
+
+### LLM-as-a-Judge Quality Audit
+![Quality Evaluation Report](images/evaluation.png)
+
 ## Project Structure
 
 ```text
